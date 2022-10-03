@@ -68,7 +68,7 @@ header{
     font-family: "Helvetica LT";
 }
 .banner{
-    background: url("/img/background.jpg");
+    background: url("./img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -224,7 +224,7 @@ header{
 
 
 .maps{
-    background: url("/img/back.png");
+    background: url("./img/back.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
